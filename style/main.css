@@ -356,6 +356,14 @@ margin:30px 0 30px;
   color: rgb(26, 26, 26);
 
 }
+.navbar .number i{
+  color: rgb(26, 26, 26);
+  
+}
+.navbar .number i:hover{
+  color:#ea8f3c;
+  transition:.5s;
+}
 .inc_pho{
   margin-right: 10px;
 
