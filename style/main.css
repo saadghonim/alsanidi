@@ -20,6 +20,7 @@
 }
 body{
   background-color: #f7f7fa;
+  overflow-x:hidden ;
 }
 html[dir="rtl"] body{
   direction: rtl;
@@ -56,6 +57,10 @@ p{
 @media(min-width:1500px){
   .container{
     width: 1440px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 
   }
 }
