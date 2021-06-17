@@ -572,11 +572,7 @@ margin-top: 30px;
 .nav-coll {
   overflow-x:auto ;
 }
-@media(min-width:1500px){
-  .nav-tabs li a{
-    width: 212px
-  }
-}
+
 /* end collection */
 
 /* start tab-Products */
